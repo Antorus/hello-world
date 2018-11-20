@@ -1,2 +1,3 @@
 # hello-world
-This is a first project.
+This is a tutorial project.
+I'm learning to program coming from a humanities background. It's been difficult...
